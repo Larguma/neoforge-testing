@@ -1,0 +1,13 @@
+{
+  "itemGroup.neoforgetesting": "Example Mod Tab",
+  "block.neoforgetesting.example_block": "Example Block",
+  "item.neoforgetesting.example_item": "Example Item",
+
+  "neoforgetesting.configuration.title": "neoforge-testing Configs",
+  "neoforgetesting.configuration.section.neoforgetesting.common.toml": "neoforge-testing Configs",
+  "neoforgetesting.configuration.section.neoforgetesting.common.toml.title": "neoforge-testing Configs",
+  "neoforgetesting.configuration.items": "Item List",
+  "neoforgetesting.configuration.logDirtBlock": "Log Dirt Block",
+  "neoforgetesting.configuration.magicNumberIntroduction": "Magic Number Text",
+  "neoforgetesting.configuration.magicNumber": "Magic Number"
+}
