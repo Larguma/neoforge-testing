@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "neoforgetesting:block/example_block_blockbench"
+    },
+    "facing=south": {
+      "model": "neoforgetesting:block/example_block_blockbench",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "neoforgetesting:block/example_block_blockbench",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "neoforgetesting:block/example_block_blockbench",
+      "y": 270
+    }
+  }
+}

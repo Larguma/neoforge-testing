@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "chisel",
+  "ingredient": {
+    "item": "neoforgetesting:example_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "neoforgetesting:chisel"
+  }
+}
